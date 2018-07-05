@@ -1,1 +1,3 @@
-Source code for Arduino project that displays the current bitcoin price in binary, see my write up [here](http://joeiddon.me/projects/arduino/bitcoin).
+Source code for an Arduino project which displays the current bitcoin price in binary on LEDs.
+
+See my write up [here](http://joeiddon.github.io/projects/arduino/bitcoin).
